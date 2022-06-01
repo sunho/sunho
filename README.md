@@ -1,9 +1,10 @@
 # Profile
 
 Hey, I'm Sunho Kim, an undergraduate student interested in:
-- Competitive programming
+- Competitive programming (problem solving)
 - Compilers
 - Graphics programming
+- Advanced mathematics
 
 
 Codeforces account: [sunho](https://codeforces.com/profile/sunho)
