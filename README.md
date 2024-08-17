@@ -4,4 +4,4 @@ My website: https://sunho.io/
 
 [![Codeforces](https://badges.riever.dev/codeforces/mathneko.svg)](https://codeforces.com/profile/mathneko)
 
-[![AtCoder](https://badges.riever.dev/atcoder/sunho.svg)](https://atcoder.jp/users/sunho)
+[![AtCoder](https://badges.riever.dev/atcoder/mathneko.svg)](https://atcoder.jp/users/mathneko)
